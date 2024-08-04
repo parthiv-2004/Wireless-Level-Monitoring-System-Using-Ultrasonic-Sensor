@@ -55,6 +55,11 @@ The Wireless Ultrasonic Level Monitor is a project designed to measure and displ
 | SCK          | A5      |
 | SDA          | A4      |
 
+
+###Project Visual
+![20240801_195447_1_11zon](https://github.com/user-attachments/assets/b1595127-d6eb-48a3-9089-3735b61a3bc4)
+
+
 This project provides an effective solution for monitoring and managing liquid levels, ensuring accurate measurements and an easy-to-read display.
 
 ---
